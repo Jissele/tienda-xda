@@ -1,0 +1,27 @@
+.article {
+  width: 75%;
+  margin: 0 auto;
+  padding: 30px;
+
+  font-size: 1.3rem;
+}
+.article h1 {
+  font-stretch: expanded;
+  font-family: 'Times', Arial;
+  font-weight: 600;
+  letter-spacing: 0.1px;
+  color: $smoky-black;
+}
+.article p {
+  color: $granite-gray;
+  font-size: 1.2rem;
+  padding: 5px 0 15px;
+}
+
+button {
+  padding: 10px;
+  border: 2px solid $smoky-black;
+  background-color: $white;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
